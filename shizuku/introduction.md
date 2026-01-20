@@ -1,3 +1,4 @@
+![Messenger_creation_4B83A92C-44B9-40C7-B9DE-4513D1185F6F](https://github.com/user-attachments/assets/43f1345c-0c07-4d0f-9008-e6defa9d69ab)
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
